@@ -1,7 +1,10 @@
-## Hi there 👋
+## Hello there and welcome! 👋, my name is Amarjeet Gill
+ <a href="https://www.linkedin.com/in/amarjeet-gill-7bb915181">
+ <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
+ </a>
 
-<!--
-**A-Gill01/A-Gill01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am a Full Stack Developer with a strong passion for coding.  
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
