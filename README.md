@@ -1,4 +1,4 @@
-## Hello there and welcome! 👋, my name is Amarjeet Gill
+![java](https://github.com/user-attachments/assets/1b72ba74-19cc-4e7e-b584-ff6f54659870)## Hello there and welcome! 👋, my name is Amarjeet Gill
 <div class="inline-block">
  <a href="https://www.linkedin.com/in/amarjeet-gill-7bb915181">
   <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
@@ -21,7 +21,8 @@ An anime catalog and notekeeping platform that functions to allow users to searc
 
 ## I’m currently learning
 
-<img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="background:white;"><img height="100px" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg">
+
+<img height="100px" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg">
 
 ## Technologies I work with
 ![html5](https://github.com/user-attachments/assets/41760a49-410a-4b2a-a330-95dbe495b36a)
