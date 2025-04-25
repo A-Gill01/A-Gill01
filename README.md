@@ -16,7 +16,7 @@ I am a Toronto based Full Stack Developer with a strong passion for coding. I wo
 - Tech used: 
 
 ## I’m currently learning
-![java](https://github.com/user-attachments/assets/2074215f-b2e2-43f2-ae88-2c6f4dd77c4e)
+![java](https://github.com/user-attachments/assets/5f37c765-cfcf-40ba-86d3-c32b00a2a6f9)
 &nbsp;
 ![japan](https://github.com/user-attachments/assets/0c1998a9-2046-4158-9bf5-28df6679483e)
 
