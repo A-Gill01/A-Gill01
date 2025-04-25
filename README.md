@@ -48,7 +48,7 @@ Work and professional development. I'm diligently looking for opportunities to g
 ## 📫 How to reach me
 [![Resume](https://github.com/user-attachments/assets/8c1d2c58-1525-4798-a3d1-3f8f9b823cb3)](https://drive.google.com/file/d/1jrjQhZB6ApA75ftdOXDt9junbywSn-MW/view?usp=sharing)
 &nbsp;
-![E-Mail](https://github.com/user-attachments/assets/5e3d3e84-1e3e-482f-8f1b-0c23d6bf4a18)
+[![E-Mail](https://github.com/user-attachments/assets/5e3d3e84-1e3e-482f-8f1b-0c23d6bf4a18)](mailto:gill.io0710@gmail.com)
 &nbsp;
 [![linkedin](https://github.com/user-attachments/assets/dd9757e8-08d0-48c9-9232-a424dff8da68)](https://www.linkedin.com/in/amarjeet-gill-7bb915181)
 
