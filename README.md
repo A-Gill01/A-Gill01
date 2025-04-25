@@ -1,4 +1,4 @@
-![java](https://github.com/user-attachments/assets/1b72ba74-19cc-4e7e-b584-ff6f54659870)## Hello there and welcome! 👋, my name is Amarjeet Gill
+## Hello there and welcome! 👋, my name is Amarjeet Gill
 <div class="inline-block">
  <a href="https://www.linkedin.com/in/amarjeet-gill-7bb915181">
   <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
@@ -17,18 +17,36 @@ I am a Toronto based Full Stack Developer with a strong passion for coding. I wo
 
 ## 🛠️ I'm currently working on
 #### AniBase: 
-An anime catalog and notekeeping platform that functions to allow users to search through a catalog in a postgreSQL database using certain parameters (genre, studio, name, ratings, etc.) and find an anime series they want to watch. They can then log into their personal accounts and keep a log of what they've seen, their personal thoughts on it, a rating out of 10 and much more. Users can even start discussions and respond to discussion comments.
+- An anime catalog and notekeeping platform with blog functionality.
+- Users can search through its anime database using certain parameters (genre, studio, name, ratings, etc.) and find an anime series they want to watch.
+- After creating a personal account, users can sign in and keep a log of what they've watched, their personal thoughts on it, a rating out of 10 and much more.
+- Blog posts and discussions can even be created where people can comment and respond.
+- Tech used: 
 
 ## I’m currently learning
-
-
-<img height="100px" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg">
+![java](https://github.com/user-attachments/assets/2074215f-b2e2-43f2-ae88-2c6f4dd77c4e)
+![japan](https://github.com/user-attachments/assets/0c1998a9-2046-4158-9bf5-28df6679483e)
 
 ## Technologies I work with
-![html5](https://github.com/user-attachments/assets/41760a49-410a-4b2a-a330-95dbe495b36a)
-![css](https://github.com/user-attachments/assets/08937d91-7763-4317-81f6-d3b29dfd4f67)
-![js](https://github.com/user-attachments/assets/5a952ca3-555e-4d8e-aab3-4842423da5e5)
-![json](https://github.com/user-attachments/assets/b5994bf5-27d3-44c3-8be4-b930d57592d6)
+![HTML](https://github.com/user-attachments/assets/0d9da1e7-d36d-40c3-ba12-5ff774407564)
+![CSS](https://github.com/user-attachments/assets/e2c04c5a-4a49-414b-8e63-03969017e4c2)
+![sass](https://github.com/user-attachments/assets/6e7f78a2-4441-4816-b164-acbf2dc2b660)
+![Bootstrap](https://github.com/user-attachments/assets/dd319c91-8eda-4a68-bb4f-bbf5144f51f3)
+![Flexbox](https://github.com/user-attachments/assets/5e66736a-1474-49d4-8700-b9c7004fea27)
+![Grid](https://github.com/user-attachments/assets/027d709f-4123-4b9d-83f3-41bafd67ef40)
+![Javacript](https://github.com/user-attachments/assets/6a7e97b9-2200-4304-8609-4eeecc30e172)
+![JSON](https://github.com/user-attachments/assets/e69984cb-f684-4643-9c7e-f45bfff9e8d1)
+![Node.js](https://github.com/user-attachments/assets/270f2a48-1147-437e-ba3e-1b348905aa68)
+![npm](https://github.com/user-attachments/assets/cc0a66f6-ceec-48f5-9904-b8163a0471a6)
+![Express.js](https://github.com/user-attachments/assets/bb639cb1-2ee3-4337-8318-6bfa0fd906be)
+![React.js](https://github.com/user-attachments/assets/10e04978-8ef3-4cfc-9155-a15d095fe162)
+![jquery](https://github.com/user-attachments/assets/d7be9059-9306-4b74-bfac-2c0b0444077e)
+![postgreSQL](https://github.com/user-attachments/assets/66a5fa2b-6b38-4279-87c3-1c17d654d736)
+![postman](https://github.com/user-attachments/assets/9c315c08-219b-4389-8144-7e5e494bd18a)
+![Axios](https://github.com/user-attachments/assets/9b26f787-4eda-47f8-b19c-83fb905455e5)
+![Unix](https://github.com/user-attachments/assets/86bd9fb7-36a0-44b6-be78-8ed948d314ec)
+![VSCode](https://github.com/user-attachments/assets/995de800-9ba6-4359-a10a-cd130fad34ba)
+![Git](https://github.com/user-attachments/assets/e763302e-f21b-4687-b9f7-a36ad1a2912d)
 
 
 ## 🤔 I’m looking for
