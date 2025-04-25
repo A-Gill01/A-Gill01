@@ -1,15 +1,7 @@
-## Hello there and welcome! 👋, my name is Amarjeet Gill
-<div class="inline-block">
- <a href="https://www.linkedin.com/in/amarjeet-gill-7bb915181">
-  <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
- </a>
- <a href="https://drive.google.com/file/d/1jrjQhZB6ApA75ftdOXDt9junbywSn-MW/view?usp=sharing">
-  <img height="100px" width="100px" src="https://cdn-icons-png.freepik.com/512/8521/8521999.png" style="background:white;">
- </a>
-</div>
- 
- 
- 
+
+![GithubBanner](https://github.com/user-attachments/assets/f7c9f847-142d-465f-aae7-0d4d47a7e4cf)
+<h1 align="center">Hello there and welcome!<br>My name is Gill. It is a pleasure 🙏<br>&nbsp;</h1>
+
 
 ## 🧑🏻‍💻 About me
 I am a Toronto based Full Stack Developer with a strong passion for coding. I work a lot with Node.js, Express.js, and RESTful API  Architecture. When I'm not at my desk I'm usually training in the gym, reading on my kindle, or watching astronomy/engineering videos on youtube.
@@ -25,6 +17,7 @@ I am a Toronto based Full Stack Developer with a strong passion for coding. I wo
 
 ## I’m currently learning
 ![java](https://github.com/user-attachments/assets/2074215f-b2e2-43f2-ae88-2c6f4dd77c4e)
+&nbsp;
 ![japan](https://github.com/user-attachments/assets/0c1998a9-2046-4158-9bf5-28df6679483e)
 
 ## Technologies I work with
@@ -53,6 +46,9 @@ I am a Toronto based Full Stack Developer with a strong passion for coding. I wo
 Work and professional development. I'm diligently looking for opportunities to gain professional experience and develop and refine my skills, as well as learn new ones. 
 
 ## 📫 How to reach me
-- Email: gill.io0710@gmail.com
-- Resume: https://drive.google.com/file/d/1jrjQhZB6ApA75ftdOXDt9junbywSn-MW/view?usp=sharing
+[![Resume](https://github.com/user-attachments/assets/8c1d2c58-1525-4798-a3d1-3f8f9b823cb3)](https://drive.google.com/file/d/1jrjQhZB6ApA75ftdOXDt9junbywSn-MW/view?usp=sharing)
+&nbsp;
+![E-Mail](https://github.com/user-attachments/assets/5e3d3e84-1e3e-482f-8f1b-0c23d6bf4a18)
+&nbsp;
+[![linkedin](https://github.com/user-attachments/assets/dd9757e8-08d0-48c9-9232-a424dff8da68)](https://www.linkedin.com/in/amarjeet-gill-7bb915181)
 
