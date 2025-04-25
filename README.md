@@ -3,7 +3,7 @@
  <a href="https://www.linkedin.com/in/amarjeet-gill-7bb915181">
   <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
  </a>
- <a href="https://drive.google.com/file/d/1laDk52wuBFYWN0zTpiEHmGr3CjuADtxf/view?usp=sharing">
+ <a href="https://drive.google.com/file/d/1jrjQhZB6ApA75ftdOXDt9junbywSn-MW/view?usp=sharing">
   <img height="100px" width="100px" src="https://cdn-icons-png.freepik.com/512/8521/8521999.png" style="background:white;">
  </a>
 </div>
