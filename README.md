@@ -13,7 +13,6 @@ I am a Toronto based Full Stack Developer with a strong passion for coding. I wo
 - Users can search through its anime database using certain parameters (genre, studio, name, ratings, etc.) and find an anime series they want to watch.
 - After creating a personal account, users can sign in and keep a log of what they've watched, their personal thoughts on it, a rating out of 10 and much more.
 - Blog posts and discussions can even be created where people can comment and respond.
-- Tech used: 
 
 ## 📚 I’m currently learning
 ![java](https://github.com/user-attachments/assets/5f37c765-cfcf-40ba-86d3-c32b00a2a6f9)
