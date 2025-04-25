@@ -31,7 +31,7 @@ I am a Toronto based Full Stack Developer with a strong passion for coding. I wo
 ![JSON](https://github.com/user-attachments/assets/e69984cb-f684-4643-9c7e-f45bfff9e8d1)
 ![Node.js](https://github.com/user-attachments/assets/270f2a48-1147-437e-ba3e-1b348905aa68)
 ![npm](https://github.com/user-attachments/assets/cc0a66f6-ceec-48f5-9904-b8163a0471a6)
-![Express.js](https://github.com/user-attachments/assets/bb639cb1-2ee3-4337-8318-6bfa0fd906be)
+![Express](https://github.com/user-attachments/assets/42009525-589c-4e66-942b-28acfa29096f)
 ![React.js](https://github.com/user-attachments/assets/10e04978-8ef3-4cfc-9155-a15d095fe162)
 ![jquery](https://github.com/user-attachments/assets/d7be9059-9306-4b74-bfac-2c0b0444077e)
 ![postgreSQL](https://github.com/user-attachments/assets/66a5fa2b-6b38-4279-87c3-1c17d654d736)
