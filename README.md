@@ -35,5 +35,5 @@ Work and professional development. I'm diligently looking for opportunities to g
 
 ## 📫 How to reach me
 - Email: gill.io0710@gmail.com
-- Resume: https://drive.google.com/file/d/1laDk52wuBFYWN0zTpiEHmGr3CjuADtxf/view?usp=sharing
+- Resume: https://drive.google.com/file/d/1jrjQhZB6ApA75ftdOXDt9junbywSn-MW/view?usp=sharing
 
