@@ -15,12 +15,12 @@ I am a Toronto based Full Stack Developer with a strong passion for coding. I wo
 - Blog posts and discussions can even be created where people can comment and respond.
 - Tech used: 
 
-## I’m currently learning
+## 📚 I’m currently learning
 ![java](https://github.com/user-attachments/assets/5f37c765-cfcf-40ba-86d3-c32b00a2a6f9)
 &nbsp;
 ![japan](https://github.com/user-attachments/assets/0c1998a9-2046-4158-9bf5-28df6679483e)
 
-## Technologies I work with
+## 🖥️ Technologies I work with
 ![HTML](https://github.com/user-attachments/assets/0d9da1e7-d36d-40c3-ba12-5ff774407564)
 ![CSS](https://github.com/user-attachments/assets/e2c04c5a-4a49-414b-8e63-03969017e4c2)
 ![sass](https://github.com/user-attachments/assets/6e7f78a2-4441-4816-b164-acbf2dc2b660)
@@ -42,7 +42,7 @@ I am a Toronto based Full Stack Developer with a strong passion for coding. I wo
 ![Git](https://github.com/user-attachments/assets/e763302e-f21b-4687-b9f7-a36ad1a2912d)
 
 
-## 🤔 I’m looking for
+## 🧐 I’m looking for
 Work and professional development. I'm diligently looking for opportunities to gain professional experience and develop and refine my skills, as well as learn new ones. 
 
 ## 📫 How to reach me
